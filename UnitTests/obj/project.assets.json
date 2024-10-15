@@ -6986,11 +6986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Template\\Service Template\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Service Template\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Template\\Service Template\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Service Template\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\bramv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Template\\Service Template\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Service Template\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bramv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7008,8 +7008,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Template\\Service Template\\Service Template\\Service Template.csproj": {
-              "projectPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Template\\Service Template\\Service Template\\Service Template.csproj"
+            "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Service Template\\Service Template\\Service Template.csproj": {
+              "projectPath": "C:\\Users\\bramv\\OneDrive\\Documenten\\fontys\\Semester 6 (advanced software)\\Personal code\\back-end\\Service Template\\Service Template\\Service Template.csproj"
             }
           }
         }
@@ -7018,11 +7018,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
